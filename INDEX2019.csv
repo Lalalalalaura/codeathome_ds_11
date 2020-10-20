@@ -1,0 +1,168 @@
+Nr;Land;Punkte gesamt;Wahlprozess und Pluralismus;Funktionsweise der Regierung;Politische Teilhabe;Politische Kultur;Bürgerrechte;Kategorie
+1; Norwegen;9,87;10;9,64;10;10;9,71;Vollständige Demokratie
+2; Island;9,58;10;9,29;8,89;10;9,71;Vollständige Demokratie
+3; Schweden;9,39;9,58;9,64;8,33;10;9,41;Vollständige Demokratie
+4; Neuseeland;9,26;10;9,29;8,89;8,13;10;Vollständige Demokratie
+5; Finnland;9,25;10;8,93;8,89;8,75;9,71;Vollständige Demokratie
+6; Irland;9,24;10;7,86;8,33;10;10;Vollständige Demokratie
+7; Dänemark;9,22;10;9,29;8,33;9,38;9,12;Vollständige Demokratie
+8; Kanada;9,22;9,58;9,64;7,78;9,38;9,71;Vollständige Demokratie
+9; Australien;9,09;10;8,93;7,78;8,75;10;Vollständige Demokratie
+10; Schweiz;9,03;9,58;9,29;7,78;9,38;9,12;Vollständige Demokratie
+11; Niederlande;9,01;9,58;9,29;8,33;8,75;9,12;Vollständige Demokratie
+12; Luxemburg;8,81;10;8,93;6,67;8,75;9,71;Vollständige Demokratie
+13; Deutschland;8,68;9,58;8,57;8,33;7,5;9,41;Vollständige Demokratie
+14; Vereinigtes Königreich;8,52;9,58;7,5;8,89;7,5;9,12;Vollständige Demokratie
+15; Uruguay;8,38;10;8,57;6,11;7,5;9,71;Vollständige Demokratie
+16; Österreich;8,29;9,58;7,86;8,33;6,88;8,82;Vollständige Demokratie
+17; Spanien;8,29;9,58;7,14;7,78;8,13;8,82;Vollständige Demokratie
+18; Mauritius;8,22;9,17;8,21;5,56;8,75;9,41;Vollständige Demokratie
+19; Costa Rica;8,13;9,58;7,5;6,67;7,5;9,41;Vollständige Demokratie
+20; Frankreich;8,12;9,58;7,86;7,78;6,88;8,53;Vollständige Demokratie
+21; Chile;8,08;9,58;8,57;5;8,13;9,12;Vollständige Demokratie
+22; Portugal;8,03;9,58;7,86;6,11;7,5;9,12;Vollständige Demokratie
+23; Südkorea;8;9,17;7,86;7,22;7,5;8,24;Unvollständige Demokratie
+24; Japan;7,99;8,75;8,21;6,67;7,5;8,82;Unvollständige Demokratie
+25; Vereinigte Staaten;7,96;9,17;7,14;7,78;7,5;8,24;Unvollständige Demokratie
+26; Malta;7,95;9,17;7,5;6,11;8,13;8,82;Unvollständige Demokratie
+27; Estland;7,9;9,58;7,86;6,67;6,88;8,53;Unvollständige Demokratie
+28; Israel;7,86;9,17;7,86;8,89;7,5;5,88;Unvollständige Demokratie
+29; Botswana;7,81;9,17;7,14;6,11;7,5;9,12;Unvollständige Demokratie
+30; Kap Verde;7,78;9,17;7,36;6,67;6,88;8,82;Unvollständige Demokratie
+31; Taiwan;7,73;9,58;8,21;6,11;5,63;9,12;Unvollständige Demokratie
+32; Tschechien;7,69;9,58;6,79;6,67;6,88;8,53;Unvollständige Demokratie
+33; Belgien;7,64;9,58;8,21;5;6,88;8,53;Unvollständige Demokratie
+34; Zypern;7,59;9,17;6,43;6,67;6,88;8,82;Unvollständige Demokratie
+35; Italien;7,52;9,58;6,07;7,78;6,25;7,94;Unvollständige Demokratie
+36; Slowenien;7,5;9,58;6,79;6,67;6,25;8,24;Unvollständige Demokratie
+37; Litauen;7,5;9,58;6,43;6,11;6,25;9,12;Unvollständige Demokratie
+38; Lettland;7,49;9,58;6,07;6,11;6,88;8,82;Unvollständige Demokratie
+39; Griechenland;7,43;9,58;4,86;6,67;7,5;8,53;Unvollständige Demokratie
+40; Südafrika;7,24;7,42;7,5;8,33;5;7,94;Unvollständige Demokratie
+41; Osttimor;7,19;9,08;6,79;5,56;6,88;7,65;Unvollständige Demokratie
+42; Slowakei;7,17;9,58;7,14;5,56;5,63;7,94;Unvollständige Demokratie
+43; Malaysia;7,16;9,17;7,86;6,67;6,25;5,88;Unvollständige Demokratie
+44; Trinidad und Tobago;7,16;9,58;7,14;6,11;5,63;7,35;Unvollständige Demokratie
+45; Kolumbien;7,13;9,17;6,79;5,56;5,63;8,53;Unvollständige Demokratie
+46; Panama;7,05;9,58;6,07;6,67;5;7,94;Unvollständige Demokratie
+47; Bulgarien;7,03;9,17;6,43;7,22;4,38;7,94;Unvollständige Demokratie
+48; Argentinien;7,02;9,17;5,36;6,11;6,25;8,24;Unvollständige Demokratie
+49; Suriname;6,98;9,17;6,43;6,67;5;7,65;Unvollständige Demokratie
+50; Jamaika;6,96;8,75;7,14;4,44;6,25;8,24;Unvollständige Demokratie
+51; Indien;6,9;8,67;6,79;6,67;5,63;6,76;Unvollständige Demokratie
+52; Brasilien;6,86;9,58;5,36;6,11;5;8,24;Unvollständige Demokratie
+53; Tunesien;6,72;9,17;5,71;7,78;5,63;5,88;Unvollständige Demokratie
+54; Philippinen;6,64;9,17;5,36;7,22;4,38;7,06;Unvollständige Demokratie
+55; Ghana;6,63;8,33;5,71;6,67;6,25;6,18;Unvollständige Demokratie
+56; Ungarn;6,63;8,75;6,07;5;6,25;7,06;Unvollständige Demokratie
+57; Polen;6,62;9,17;6,07;6,11;4,38;7,35;Unvollständige Demokratie
+58; Peru;6,6;9,17;5;5,56;5,63;7,65;Unvollständige Demokratie
+59; Kroatien;6,57;9,17;6,07;5,56;5;7,06;Unvollständige Demokratie
+60; Dominikanische Republik;6,54;9,17;5,36;6,11;5;7,06;Unvollständige Demokratie
+61; Lesotho;6,54;9,17;4,5;6,67;5,63;6,76;Unvollständige Demokratie
+62; Mongolei;6,5;9,17;5,71;5,56;5;7,06;Unvollständige Demokratie
+63; Rumänien;6,49;9,17;5,71;5,56;4,38;7,65;Unvollständige Demokratie
+64; Indonesien;6,48;7,92;7,14;6,11;5,63;5,59;Unvollständige Demokratie
+65; Namibia;6,43;6,58;5,36;6,67;5,63;7,94;Unvollständige Demokratie
+66; Serbien;6,41;8,25;5,36;6,11;5;7,35;Unvollständige Demokratie
+67; Ecuador;6,33;8,75;5,36;6,11;4,38;7,06;Unvollständige Demokratie
+68; Thailand;6,32;7,42;5,36;6,11;6,25;6,47;Unvollständige Demokratie
+69; Sri Lanka;6,27;7;6,07;5,56;6,25;6,47;Unvollständige Demokratie
+70; Paraguay;6,24;8,75;5,71;5;4,38;7,35;Unvollständige Demokratie
+71; El Salvador;6,15;9,17;4,64;6,11;3,75;7,06;Unvollständige Demokratie
+72; Guyana;6,15;6,92;5,36;6,11;5;7,35;Unvollständige Demokratie
+73; Mexiko;6,09;7,83;6,07;7,22;3,13;6,18;Unvollständige Demokratie
+74; Papua-Neuguinea;6,03;6,92;6,07;3,89;5,63;7,65;Unvollständige Demokratie
+75; Hongkong;6,02;3,58;4,36;6,11;7,5;8,53;Unvollständige Demokratie
+76; Singapur;6,02;3,92;7,86;5;6,25;7,06;Unvollständige Demokratie
+77; Nordmazedonien;5,97;7;5,36;6,67;3,75;7,06;Hybridregime
+78; Ukraine;5,9;7,42;2,71;6,67;6,25;6,47;Hybridregime
+79; Albanien;5,89;7;5,36;4,44;5;7,65;Hybridregime
+80; Bangladesch;5,88;7,83;6,07;6,11;4,38;5;Hybridregime
+81; Fidschi;5,85;6,58;5,36;6,11;5,63;5,59;Hybridregime
+82; Senegal;5,81;6,08;6,07;4,44;6,25;6,18;Hybridregime
+83; Moldau;5,75;6,58;4,64;6,11;4,38;7,06;Hybridregime
+84; Montenegro;5,65;5,67;5,36;6,11;4,38;6,76;Hybridregime
+85; Madagaskar;5,64;7,92;3,57;6,11;5,63;5;Hybridregime
+86; Armenien;5,54;7,5;5,36;6,11;3,13;5,59;Hybridregime
+87; Malawi;5,5;6,08;4,29;5;6,25;5,88;Hybridregime
+88; Liberia;5,45;7,42;3,07;5,56;5,63;5,59;Hybridregime
+89; Georgien;5,42;7,83;3,57;6,11;4,38;5,59;Hybridregime
+90; Honduras;5,42;7,83;4,29;4,44;4,38;6,18;Hybridregime
+91; Bhutan;5,3;8,75;6,79;2,78;4,38;3,82;Hybridregime
+92; Nepal;5,28;4,83;5,36;5;5,63;5,59;Hybridregime
+93; Guatemala;5,26;6,92;4,64;3,89;4,38;6,47;Hybridregime
+94; Kenia;5,18;3,5;5,71;6,67;5,63;4,41;Hybridregime
+95; Tansania;5,16;5,75;5;5;5,63;4,41;Hybridregime
+96; Marokko;5,1;5,25;4,64;5,56;5,63;4,41;Hybridregime
+97; Benin;5,09;4,67;5,71;4,44;5,63;5;Hybridregime
+98; Sambia;5,09;4,75;2,93;4,44;6,88;6,47;Hybridregime
+99; Uganda;5,02;4,33;3,57;4,44;6,88;5,88;Hybridregime
+100; Mali;4,92;6,42;3,07;3,89;5,63;5,59;Hybridregime
+101; Kirgisistan;4,89;6,08;2,93;6,67;3,75;5;Hybridregime
+102; Bosnien und Herzegowina;4,86;6,17;2,93;5,56;3,75;5,88;Hybridregime
+103; Sierra Leone;4,86;6,58;2,86;3,33;6,25;5,29;Hybridregime
+104; Bolivien;4,84;4,75;3,93;5;3,75;6,76;Hybridregime
+105; Haiti;4,57;4,75;2,07;3,89;6,25;5,88;Hybridregime
+106; Libanon;4,36;3,92;1,5;6,67;5;4,71;Hybridregime
+107; Gambia;4,33;4;4,29;3,33;5,63;4,41;Hybridregime
+108; Pakistan;4,25;6,08;5,71;2,22;2,5;4,71;Hybridregime
+109; Nigeria;4,12;5,17;3,93;3,33;3,75;4,41;Hybridregime
+110; Türkei;4,09;3,08;5;5;5;2,35;Hybridregime
+111; Elfenbeinküste;4,05;4,83;2,86;3,33;5,63;4,12;Hybridregime
+112; Burkina Faso;4,04;3,08;2,86;5;5;4,12;Hybridregime
+113; Algerien;4,01;3,08;2,86;5;5;4,12;Hybridregime
+114; Jordanien;3,93;3,58;4,29;3,89;4,38;3,53;Autoritäres Regime
+115; Kuwait;3,93;3,58;4,29;3,89;4,38;3,53;Autoritäres Regime
+116; Mauretanien;3,92;3,5;3,57;5;3,13;4,41;Autoritäres Regime
+117; Palästina;3,89;3,33;0,14;7,78;4,38;3,82;Autoritäres Regime
+118; Irak;3,74;5,25;0;6,67;5;1,76;Autoritäres Regime
+119; Angola;3,72;2,25;2,86;5,56;5;2,94;Autoritäres Regime
+120; Mosambik;3,65;2,58;2,14;5;5;3,53;Autoritäres Regime
+121; Gabun;3,61;2,58;2,21;4,44;5;3,82;Autoritäres Regime
+122; Myanmar;3,55;3,08;3,93;2,78;5,63;2,35;Autoritäres Regime
+123; Nicaragua;3,55;3,08;1,25;2,86;3,89;5,63;Autoritäres Regime
+124; Kambodscha;3,53;0,83;4,64;3,33;5,63;3,24;Autoritäres Regime
+125; Äthiopien;3,44;0,42;3,57;5,56;5;2,65;Autoritäres Regime
+126; Togo;3,3;3,17;1,79;3,33;5;3,24;Autoritäres Regime
+127; Niger;3,29;2,92;1,14;3,33;4,38;4,71;Autoritäres Regime
+128; Katar;3,19;0;4,29;2,22;5,63;3,82;Autoritäres Regime
+129; Ruanda;3,16;1,42;4,29;2,78;4,38;2,94;Autoritäres Regime
+130; Simbabwe;3,16;0;2,5;4,44;5,63;3,24;Autoritäres Regime
+131; Komoren;3,15;2,08;2,21;3,89;3,75;3,82;Autoritäres Regime
+132; Eswatini;3,14;0,92;2,86;2,78;5,63;3,53;Autoritäres Regime
+133; Guinea;3,14;3,5;0,43;4,44;4,38;2,94;Autoritäres Regime
+134; Republik Kongo;3,11;2,17;2,5;3,89;3,75;3,24;Autoritäres Regime
+135; Russland;3,11;2,17;1,79;5;2,5;4,12;Autoritäres Regime
+136; Vietnam;3,08;0;3,21;3,89;5,63;2,65;Autoritäres Regime
+137; Ägypten;3,06;2,67;3,21;3,33;3,75;2,35;Autoritäres Regime
+138; Oman;3,06;0,08;3,93;2,78;4,38;4,12;Autoritäres Regime
+139; Kasachstan;2,94;0,5;2,14;4,44;4,38;3,24;Autoritäres Regime
+140; Venezuela;2,88;0;1,79;5;4,38;3,24;Autoritäres Regime
+141; Afghanistan;2,85;3,42;0,64;3,89;2,5;3,82;Autoritäres Regime
+142; Kamerun;2,85;1,67;2,5;3,33;4,38;2,35;Autoritäres Regime
+143; Kuba;2,84;0;3,57;3,33;4,38;2,94;Autoritäres Regime
+144; Dschibuti;2,77;0,42;1,29;3,89;5,63;2,65;Autoritäres Regime
+145; Vereinigte Arabische Emirate;2,76;0;3,93;2,22;5;2,65;Autoritäres Regime
+146; Aserbaidschan;2,75;0,5;2,14;3,33;3,75;3,53;Autoritäres Regime
+147; Sudan;2,7;0;1,79;5,56;5;1,18;Autoritäres Regime
+148; Guinea-Bissau;2,63;4,92;0;2,78;3,13;2,35;Autoritäres Regime
+149; Bahrain;2,55;0,92;2,71;2,78;4,38;2,06;Autoritäres Regime
+150; Weißrussland;2,48;0,92;2;2,78;4,38;2,35;Autoritäres Regime
+151; Iran;2,38;0;2,86;4,44;3,13;1,47;Autoritäres Regime
+152; Eritrea;2,37;0;2,14;1,67;6,88;1,18;Autoritäres Regime
+153; Volksrepublik China;2,26;0;4,29;3,33;2,5;1,18;Autoritäres Regime
+154; Burundi;2,15;0;0,07;3,33;5;2,35;Autoritäres Regime
+155; Laos;2,14;0;2,86;1,67;5;1,18;Autoritäres Regime
+156; Libyen;2,02;0;0;2,78;4,38;2,94;Autoritäres Regime
+157; Usbekistan;2,01;0,08;1,86;2,22;5;0,88;Autoritäres Regime
+158; Jemen;1,95;0;0;3,89;5;0,88;Autoritäres Regime
+159; Saudi-Arabien;1,93;0;2,86;2,22;3,13;1,47;Autoritäres Regime
+160; Tadschikistan;1,93;0,08;0,79;1,67;6,25;0,88;Autoritäres Regime
+161; Äquatorialguinea;1,92;0;0,43;3,33;4,38;1,47;Autoritäres Regime
+162; Turkmenistan;1,72;0;0,79;2,22;5;0,59;Autoritäres Regime
+163; Tschad;1,61;0;0;1,67;3,75;2,65;Autoritäres Regime
+164; Syrien;1,43;0;0;2,78;4,38;0;Autoritäres Regime
+165; Zentralafrikanische Republik;1,32;1,25;0;1,11;1,88;2,35;Autoritäres Regime
+166; Demokratische Republik Kongo;1,13;0;0;1,67;3,13;0,88;Autoritäres Regime
+167; Nordkorea;1,08;0;2,5;1,67;1,25;0;Autoritäres Regime
